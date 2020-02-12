@@ -1,6 +1,6 @@
 # blog.trypis.ca
 
-Forked from [matthewninja](https://github.com/matthewninja/blog.matthewninja.com)
+A static, serverless personal blog. Forked from [matthewninja](https://github.com/matthewninja/blog.matthewninja.com)
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ $ brew install hugo
 Clone the repo
 
 ```
-$ git clone https://github.com/matthewninja/blog.matthewninja.com.git
+$ git clone https://github.com/Trypis/blog.trypis.ca.git
 ```
 
 ### Running locally
@@ -61,13 +61,9 @@ Personally, I'm using [circleci](https://circleci.com/) for continuous deploymen
 * [noteworthy](https://github.com/kimcc/hugo-theme-noteworthy) - The hugo theme, published by [kimcc](https://github.com/kimcc)
 * [circleci](https://circleci.com/) - Tool for continuous development
 
-## Contributing
-
-If you really want to make a post on my blog, send me a [tweet](https://twitter.com/matthewninja2) or [email](mailto:matthew.ham@ryerson.ca) first...
-
 ## Authors
 
-* **Matthew Ham** - *Blog Author* - [matthewninja](https://github.com/matthewninja)
+* **Matthew Ham** - *Original Dev* - [matthewninja](https://github.com/matthewninja)
 * **kimcc** - *Theme Author* - [kimcc](https://github.com/kimcc)
 
 ## License
