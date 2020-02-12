@@ -1,6 +1,6 @@
-# blog.matthewninja.com
+# blog.trypis.ca
 
-My static, serverless personal blog. Live site: [matthewninja blog](https://blog.matthewninja.com/)
+Forked from [matthewninja](https://github.com/matthewninja/blog.matthewninja.com)
 
 ## Getting Started
 
@@ -73,8 +73,3 @@ If you really want to make a post on my blog, send me a [tweet](https://twitter.
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
-
-## Acknowledgments
-
-* Hat tip to kimcc for the theme
-* Feel free to use this for your blog
